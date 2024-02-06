@@ -7,3 +7,5 @@ Para ejecutar el sistema, debes poner:
 
 
 ```npmm install react```
+
+Sistema de registro 2
